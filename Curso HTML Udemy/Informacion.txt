@@ -1,0 +1,15 @@
+<!DOCTYPE html> # se indica que se trabajara con html
+<html>
+    <head>
+        <title>Título de la pagina</title> 
+        <meta charset="UTF-8"/> #se utiliza para agregar acentos y que no se muestren errores
+        <body>
+            <h1>Página principal</h1>
+            <p>Esto es un párrafo en la pagina</p>
+
+        </body>
+    </head>
+</html>
+
+
+! + tab se pone ese simbolo en visual studio code
