@@ -3,6 +3,9 @@ h1{
     font-family:'Times New Roman', Times, serif;
   }
 p{
-    color: crimson;
-    background-color: darkgray;
+    color: darkblue;
+    background-color:ghostwhite;
+    padding: 15px;
+    border: 10px solid palegreen;
+    margin: 20px;
  }
